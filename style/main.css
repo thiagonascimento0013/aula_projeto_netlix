@@ -99,6 +99,12 @@ header nav a:hover {
     width: 70%;
 }
 
+.categoria{
+    font-size: 14px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
 .box-filme{
     height: 100%;
     width: 100%;
